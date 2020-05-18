@@ -17,7 +17,7 @@ HackerOne supports markdown syntax on reports, profiles, and security pages.
 
 ### Headers
 
-Markdown Input:
+Markdown Inputs:
 
 ```
 A First Level Header
